@@ -1155,7 +1155,7 @@
   resolved "https://registry.yarnpkg.com/@failure-abstraction/error/-/error-5.0.5.tgz#0cf54ae8f76a025a8df015acd958192fb29a5e9a"
   integrity sha512-1wYCScLBgVzSrXWDNg6KqZPCTtrbduDIxGGx3OXfGXQgWusFC8vdgKL6XLycAgsv3FRx8jardWQGYnEHUCccQQ==
 
-"@functional-abstraction/predicate@^3.0.2":
+"@functional-abstraction/predicate@3.0.2":
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/@functional-abstraction/predicate/-/predicate-3.0.2.tgz#b54022b29c51124a34621b9579635ad0bc463a38"
   integrity sha512-aQO7fL0myzoUsJzPo2Qeesr10OxRntMBblUuK98PwGqbug/uljjMOKeg+TZOJ9jU0mkbzgjJZzb84gJ8UjOYOg==
@@ -1170,7 +1170,7 @@
   resolved "https://registry.yarnpkg.com/@iterable-iterator/consume/-/consume-0.0.1.tgz#a37a96aba64caf2c64b517b1d2529a5864482df2"
   integrity sha512-z4a8wR6JciJTrV85itsNw8pcXlq44ktWmESp66em0gjAqSnaYtKyGwDFp2FdTuVa1+p+mO+WoC0XmSVMFYc3jQ==
 
-"@iterable-iterator/count@^0.0.1":
+"@iterable-iterator/count@0.0.1":
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/count/-/count-0.0.1.tgz#b3224aa6df617a285b175df1cf08ab7842edbbea"
   integrity sha512-BWaGS9sHe2VgzzteyZIc+fNPtPymeLt3gK0V2d618u+tAzkKidNLp40R2pblHu4hgWWiks8vg4srJS8NZaK95w==
@@ -1180,12 +1180,12 @@
   resolved "https://registry.yarnpkg.com/@iterable-iterator/iter/-/iter-0.0.2.tgz#7129988de2071ffb747632bd0190c0db579a5b69"
   integrity sha512-+q2BxI+awes71qm4M5zLXaJK7GUy1Tbt5K7YKTU3Yl8DgCdQxeHBbkAIxXAv49BoS2eLx5cLXHdpX6ybzvA2XQ==
 
-"@iterable-iterator/list@^0.0.2":
+"@iterable-iterator/list@0.0.2":
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/list/-/list-0.0.2.tgz#6289761d3ada6bb88f0c92683367ea960f310869"
   integrity sha512-103Wwqx0x8neIFjm0GVR7cmEcv29Eg7F4lX72sr9L6FzMH9lp50ejfroAdbdMT37TWq2KVNo1eEWXtFo9hBybw==
 
-"@iterable-iterator/range@^1.0.0":
+"@iterable-iterator/range@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/range/-/range-1.0.0.tgz#5b3255710e3e0d174a82e38024dc2af3c1aeee25"
   integrity sha512-rFgziHtzWs/Zl1c5SfkAbUZzXvqvyeMtjsrwdkvXFQ1FCCXmzFjaMOKpr++wFuoV83XzZuiJ6lyHNEd3CSIyTg==
