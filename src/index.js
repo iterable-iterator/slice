@@ -1,2 +1,12 @@
-const answer = 42;
-export default answer;
+export {default as _drop} from './_drop.js';
+export {default as _tail} from './_tail.js';
+export {default as _take} from './_take.js';
+export {default as _trunc} from './_trunc.js';
+export {default as drop} from './drop.js';
+export {default as dropwhile} from './dropwhile.js';
+export {default as head} from './head.js';
+export {default as slice} from './slice.js';
+export {default as tail} from './tail.js';
+export {default as take} from './take.js';
+export {default as takewhile} from './takewhile.js';
+export {default as trunc} from './trunc.js';
