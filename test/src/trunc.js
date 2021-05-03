@@ -5,10 +5,15 @@ import {range} from '@iterable-iterator/range';
 
 import {trunc} from '../../src/index.js';
 
-test('trunc', (t) => {
-	t.deepEqual(list(trunc(range(100), -37)), list(range(37)));
-	t.deepEqual(list(trunc(range(100), 0)), list(range(100)));
-	t.deepEqual(list(trunc(range(100), 37)), list(range(100 - 37)));
-	t.deepEqual(list(trunc(range(100), 100)), list(range(100 - 100)));
-	t.deepEqual(list(trunc(range(100), 999)), list(range(0)));
-});
+const macro = (t, input, n, expected) => {
+	t.deepEqual(list(trunc(input, n)), list(expected));
+};
+
+macro.title = (title, input, n, expected) =>
+	title ?? `trunc(${input}, ${n}) is ${expected}`;
+
+test(macro, range(100), -37, range(37));
+test(macro, range(100), 0, range(100));
+test(macro, range(100), 37, range(100 - 37));
+test(macro, range(100), 100, range(100 - 100));
+test(macro, range(100), 999, range(0));

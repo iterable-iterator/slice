@@ -5,10 +5,15 @@ import {range} from '@iterable-iterator/range';
 
 import {take} from '../../src/index.js';
 
-test('take', (t) => {
-	t.deepEqual(list(take(range(100), 37)), list(range(37)));
-	t.deepEqual(list(take(range(100), 0)), list(range(0)));
-	t.deepEqual(list(take(range(100), -37)), list(range(100 - 37)));
+const macro = (t, input, n, expected) => {
+	t.deepEqual(list(take(input, n)), list(expected));
+};
 
-	t.deepEqual(list(take(range(100), 1000)), list(range(100)));
-});
+macro.title = (title, input, n, expected) =>
+	title ?? `take(${input}, ${n}) is ${expected}`;
+
+test(macro, range(100), 37, range(37));
+test(macro, range(100), 0, range(0));
+test(macro, range(100), -37, range(100 - 37));
+
+test(macro, range(100), 1000, range(100));

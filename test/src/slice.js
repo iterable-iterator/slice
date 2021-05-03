@@ -5,25 +5,34 @@ import {range} from '@iterable-iterator/range';
 
 import {slice} from '../../src/index.js';
 
-test('slice', (t) => {
-	const x = (start, stop, step) => {
-		const iterable = range(0, stop, 1);
+const macro = (t, input, start, stop, step, expected) => {
+	t.deepEqual(list(slice(input, start, stop, step)), list(expected));
+};
 
-		t.deepEqual(
-			list(slice(iterable, start, stop, step)),
-			list(range(start, stop, step)),
-		);
-	};
+macro.title = (title, input, start, stop, step, expected) =>
+	title ?? `slice(${input}, ${start}, ${stop}, ${step}) is ${expected}`;
 
-	x(0, 0, 1);
-	x(0, 100, 1);
-	x(0, 100, 2);
-	x(0, 100, 3);
-	x(50, 100, 1);
-	x(50, 100, 2);
-	x(50, 100, 3);
+const sliceRange = (t, start, stop, step) => {
+	const {input, expected} = sliceRange.args(start, stop, step);
+	macro(t, input, start, stop, step, expected);
+};
+
+sliceRange.args = (start, stop, step) => ({
+	input: range(0, stop, 1),
+	expected: range(start, stop, step),
 });
 
-test('empty', (t) => {
-	t.deepEqual(list(slice(range(50), 100, 1000, 1)), []);
-});
+sliceRange.title = (title, start, stop, step) => {
+	const {input, expected} = sliceRange.args(start, stop, step);
+	return macro.title(title, input, start, stop, step, expected);
+};
+
+test(sliceRange, 0, 0, 1);
+test(sliceRange, 0, 100, 1);
+test(sliceRange, 0, 100, 2);
+test(sliceRange, 0, 100, 3);
+test(sliceRange, 50, 100, 1);
+test(sliceRange, 50, 100, 2);
+test(sliceRange, 50, 100, 3);
+
+test(macro, range(50), 100, 1000, 1, range(0));
