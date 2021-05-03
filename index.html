@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <base data-ice="baseUrl">
+  <title data-ice="title">Home | @iterable-iterator/slice</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
+  <script src="script/prettify/prettify.js"></script>
+  <script src="script/manual.js"></script>
+<link rel="stylesheet" href="./inject/css/0-style.css"><script src="./inject/script/0-header.js"></script><meta name="description" content="Iterable slicing functions for JavaScript"><meta property="twitter:card" content="summary"><meta property="twitter:title" content="@iterable-iterator/slice"><meta property="twitter:description" content="Iterable slicing functions for JavaScript"></head>
+<body class="layout-container" data-ice="rootContainer">
+
+<header>
+  <a href="./">Home</a>
+  <a href="./manual/index.html" data-ice="manualHeaderLink">Manual</a>
+  <a href="identifiers.html">Reference</a>
+  <a href="source.html">Source</a>
+  
+  <div class="search-box">
+  <span>
+    <img src="./image/search.png">
+    <span class="search-input-edge"></span><input class="search-input"><span class="search-input-edge"></span>
+  </span>
+    <ul class="search-result"></ul>
+  </div>
+<a style="position:relative; top:3px;" href="https://github.com/iterable-iterator/slice"><img width="20px" src="./image/github.png"></a></header>
+
+<nav class="navigation" data-ice="nav"><div>
+  <ul>
+    
+  <li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-_drop">_drop</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-_tail">_tail</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-_take">_take</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-_trunc">_trunc</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-drop">drop</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-dropwhile">dropwhile</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-slice">slice</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-tail">tail</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-take">take</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-takewhile">takewhile</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-trunc">trunc</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-head">head</a></span></span></li>
+</ul>
+</div>
+</nav>
+
+<div class="content" data-ice="content"><div data-ice="index" class="github-markdown"><h1 id="-hocho---a-href--https---iterable-iterator-github-io-slice---iterable-iterator-slice--a-">:hocho: <a href="https://iterable-iterator.github.io/slice">@iterable-iterator/slice</a></h1><p>Iterable slicing functions for JavaScript.
+See <a href="https://iterable-iterator.github.io/slice/index.html">docs</a>.</p>
+<blockquote>
+<p>:warning: Depending on your environment, the code may require
+<code>regeneratorRuntime</code> to be defined, for instance by importing
+<a href="https://www.npmjs.com/package/regenerator-runtime">regenerator-runtime/runtime</a>.</p>
+</blockquote>
+<pre><code class="lang-js"><code class="source-code prettyprint">import {range} from &apos;@iterable-iterator/range&apos;;
+import {take, tail, trunc, drop} from &apos;@iterable-iterator/slice&apos;
+take(range(10), 3); // 0 1 2
+tail(range(10), 3); // 7 8 9
+trunc(range(10), 3); // 0 1 2 3 4 5 6
+drop(range(10), 3); // 3 4 5 6 7 8 9
+
+import {count} from &apos;@iterable-iterator/count&apos;;
+import {slice} from &apos;@iterable-iterator/slice&apos;
+slice(count(), 40, 50, 3); // 40 43 46 49
+
+import {le} from &apos;@functional-abstraction/predicate&apos;;
+import {takewhile, dropwhile} from &apos;@iterable-iterator/slice&apos;
+takewhile(le(5), count()); // 0 1 2 3 4 5
+dropwhile(le(5), count()); // 6 7 8 ...</code>
+</code></pre>
+<p><a href="https://raw.githubusercontent.com/iterable-iterator/slice/main/LICENSE"><img src="https://img.shields.io/github/license/iterable-iterator/slice.svg" alt="License"></a>
+<a href="https://www.npmjs.org/package/@iterable-iterator/slice"><img src="https://img.shields.io/npm/v/@iterable-iterator/slice.svg" alt="Version"></a>
+<a href="https://github.com/iterable-iterator/slice/actions/workflows/ci:test.yml?query=branch:main"><img src="https://img.shields.io/github/workflow/status/iterable-iterator/slice/ci:test?event=push&amp;label=tests" alt="Tests"></a>
+<a href="https://david-dm.org/iterable-iterator/slice"><img src="https://img.shields.io/david/iterable-iterator/slice.svg" alt="Dependencies"></a>
+<a href="https://david-dm.org/iterable-iterator/slice?type=dev"><img src="https://img.shields.io/david/dev/iterable-iterator/slice.svg" alt="Dev dependencies"></a>
+<a href="https://github.com/iterable-iterator/slice/issues"><img src="https://img.shields.io/github/issues/iterable-iterator/slice.svg" alt="GitHub issues"></a>
+<a href="https://www.npmjs.org/package/@iterable-iterator/slice"><img src="https://img.shields.io/npm/dm/@iterable-iterator/slice.svg" alt="Downloads"></a></p>
+<p><a href="https://codeclimate.com/github/iterable-iterator/slice/issues"><img src="https://img.shields.io/codeclimate/issues/iterable-iterator/slice.svg" alt="Code issues"></a>
+<a href="https://codeclimate.com/github/iterable-iterator/slice/trends/churn"><img src="https://img.shields.io/codeclimate/maintainability/iterable-iterator/slice.svg" alt="Code maintainability"></a>
+<a href="https://codecov.io/gh/iterable-iterator/slice"><img src="https://img.shields.io/codecov/c/gh/iterable-iterator/slice/main.svg" alt="Code coverage (cov)"></a>
+<a href="https://codeclimate.com/github/iterable-iterator/slice/trends/technical_debt"><img src="https://img.shields.io/codeclimate/tech-debt/iterable-iterator/slice.svg" alt="Code technical debt"></a>
+<a href="https://iterable-iterator.github.io/slice/source.html"><img src="https://iterable-iterator.github.io/slice/badge.svg" alt="Documentation"></a>
+<a href="https://bundlephobia.com/result?p=@iterable-iterator/slice"><img src="https://img.shields.io/bundlephobia/minzip/@iterable-iterator/slice" alt="Package size"></a></p>
+</div>
+</div>
+
+<footer class="footer">
+  Generated by <a href="https://esdoc.org">ESDoc<span data-ice="esdocVersion">(1.1.0)</span><img src="./image/esdoc-logo-mini-black.png"></a>
+</footer>
+
+<script src="script/search_index.js"></script>
+<script src="script/search.js"></script>
+<script src="script/pretty-print.js"></script>
+<script src="script/inherited-summary.js"></script>
+<script src="script/test-summary.js"></script>
+<script src="script/inner-link.js"></script>
+<script src="script/patch-for-local.js"></script>
+</body>
+</html>

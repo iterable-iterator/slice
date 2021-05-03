@@ -1,0 +1,1406 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/_drop.js",
+    "content": "import assert from 'assert';\nimport {iter} from '@iterable-iterator/iter';\nimport {consume} from '@iterable-iterator/consume';\n\n/**\n * Drops the first <code>n</code> values of the input iterable.\n *\n * @example\n * // returns [ 3 , 4 ]\n * list( _drop( range( 5 ) , 3 ) ) ;\n *\n * @param {Iterable} iterable - The input iterable.\n * @param {Number} n - The nonnegative number of values to drop.\n * @returns {IterableIterator} - The remaining values of the input iterable.\n */\nexport default function* _drop(iterable, n) {\n\tassert(Number.isInteger(n) && n >= 0);\n\tconst iterator = iter(iterable);\n\tconsume(iterator, n);\n\tyield* iterator;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/slice/slice/src/_drop.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "_drop",
+    "memberof": "src/_drop.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/_drop.js~_drop",
+    "access": "private",
+    "export": true,
+    "importPath": "@iterable-iterator/slice/src/_drop.js",
+    "importStyle": "_drop",
+    "description": "Drops the first <code>n</code> values of the input iterable.",
+    "examples": [
+      "// returns [ 3 , 4 ]\nlist( _drop( range( 5 ) , 3 ) ) ;"
+    ],
+    "lineNumber": 16,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{IterableIterator} - The remaining values of the input iterable."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "n",
+        "description": "The nonnegative number of values to drop."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "IterableIterator"
+      ],
+      "spread": false,
+      "description": "The remaining values of the input iterable."
+    }
+  },
+  {
+    "__docId__": 50,
+    "kind": "file",
+    "name": "src/_tail.js",
+    "content": "import assert from 'assert';\nimport {deque} from '@data-structure/deque';\n\n/**\n * Returns the last <code>n</code> values of the input iterable in an array.\n *\n * @example\n * // returns [ 3 , 4 ]\n * list( _tail( range( 5 ) , 2 ) ) ;\n *\n * @param {Iterable} iterable - The input iterable.\n * @param {Number} n - The nonnegative number of values to include in the output.\n * @returns {IterableIterator} - The last <code>n</code> values of the input iterable.\n */\nexport default function* _tail(iterable, n) {\n\tassert(Number.isInteger(n) && n >= 0);\n\tyield* deque(iterable, n);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/slice/slice/src/_tail.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "_tail",
+    "memberof": "src/_tail.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/_tail.js~_tail",
+    "access": "private",
+    "export": true,
+    "importPath": "@iterable-iterator/slice/src/_tail.js",
+    "importStyle": "_tail",
+    "description": "Returns the last <code>n</code> values of the input iterable in an array.",
+    "examples": [
+      "// returns [ 3 , 4 ]\nlist( _tail( range( 5 ) , 2 ) ) ;"
+    ],
+    "lineNumber": 15,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{IterableIterator} - The last <code>n</code> values of the input iterable."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "n",
+        "description": "The nonnegative number of values to include in the output."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "IterableIterator"
+      ],
+      "spread": false,
+      "description": "The last <code>n</code> values of the input iterable."
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "file",
+    "name": "src/_take.js",
+    "content": "import assert from 'assert';\nimport {iter} from '@iterable-iterator/iter';\n\n/**\n * Yields the first <code>n</code> elements of the input iterable.\n *\n * @example\n * // returns [ 0 , 1 , 2 ]\n * list( _take( range( 5 ) , 3 ) ) ;\n *\n * @param {Iterable} iterable - The input iterable.\n * @param {Number} n - The nonnegative number of elements to include in the output.\n * @returns {IterableIterator} - The first <code>n</code> elements of the input iterable.\n */\nexport default function* _take(iterable, n) {\n\tassert(Number.isInteger(n) && n >= 0);\n\n\tconst iterator = iter(iterable);\n\n\twhile (n-- > 0) {\n\t\tconst current = iterator.next();\n\n\t\tif (current.done) {\n\t\t\treturn;\n\t\t}\n\n\t\tyield current.value;\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/slice/slice/src/_take.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 53,
+    "kind": "function",
+    "name": "_take",
+    "memberof": "src/_take.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/_take.js~_take",
+    "access": "private",
+    "export": true,
+    "importPath": "@iterable-iterator/slice/src/_take.js",
+    "importStyle": "_take",
+    "description": "Yields the first <code>n</code> elements of the input iterable.",
+    "examples": [
+      "// returns [ 0 , 1 , 2 ]\nlist( _take( range( 5 ) , 3 ) ) ;"
+    ],
+    "lineNumber": 15,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{IterableIterator} - The first <code>n</code> elements of the input iterable."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "n",
+        "description": "The nonnegative number of elements to include in the output."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "IterableIterator"
+      ],
+      "spread": false,
+      "description": "The first <code>n</code> elements of the input iterable."
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "file",
+    "name": "src/_trunc.js",
+    "content": "import assert from 'assert';\nimport {deque} from '@data-structure/deque';\nimport {iter} from '@iterable-iterator/iter';\n\n/**\n * Yields all elements of the iterable except the last <code>n</code> ones.\n *\n * @example\n * // returns [ 0 , 1 , 2 ]\n * list( _trunc( range( 5 ) , 2 ) ) ;\n *\n * @param {Iterable} iterable - The input iterable.\n * @param {Number} n - The nonnegative number of elements to exclude from the output.\n * @returns {IterableIterator}\n */\nexport default function* _trunc(iterable, n) {\n\tassert(Number.isInteger(n) && n >= 0);\n\n\tif (n === 0) {\n\t\tyield* iterable;\n\t\treturn;\n\t}\n\n\tconst iterator = iter(iterable);\n\n\tconst buffer = deque(null, n);\n\n\twhile (n-- > 0) {\n\t\tconst event = iterator.next();\n\t\tif (event.done) {\n\t\t\treturn;\n\t\t}\n\n\t\tbuffer.append(event.value);\n\t}\n\n\tfor (const value of iterator) {\n\t\tyield buffer.popleft();\n\t\tbuffer.append(value);\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/slice/slice/src/_trunc.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 55,
+    "kind": "function",
+    "name": "_trunc",
+    "memberof": "src/_trunc.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/_trunc.js~_trunc",
+    "access": "private",
+    "export": true,
+    "importPath": "@iterable-iterator/slice/src/_trunc.js",
+    "importStyle": "_trunc",
+    "description": "Yields all elements of the iterable except the last <code>n</code> ones.",
+    "examples": [
+      "// returns [ 0 , 1 , 2 ]\nlist( _trunc( range( 5 ) , 2 ) ) ;"
+    ],
+    "lineNumber": 16,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{IterableIterator}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "n",
+        "description": "The nonnegative number of elements to exclude from the output."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "IterableIterator"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 56,
+    "kind": "file",
+    "name": "src/drop.js",
+    "content": "import _drop from './_drop.js';\nimport _tail from './_tail.js';\n\n/**\n * Drops the first <code>n</code> values of the input iterable.\n * If <code>n</code> is negative, behaves like <code>{@link tail}( iterable,\n * -n)</code>.\n *\n * @example\n * // returns [ 3 , 4 ]\n * list( drop( range( 5 ) , 3 ) ) ;\n *\n * @param {Iterable} iterable - The input iterable.\n * @param {Number} n - The number of values to drop.\n * @returns {IterableIterator} - The remaining values of the input iterable.\n */\nexport default function drop(iterable, n) {\n\treturn n < 0 ? _tail(iterable, -n) : _drop(iterable, n);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/slice/slice/src/drop.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 57,
+    "kind": "function",
+    "name": "drop",
+    "memberof": "src/drop.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/drop.js~drop",
+    "access": "public",
+    "export": true,
+    "importPath": "@iterable-iterator/slice/src/drop.js",
+    "importStyle": "drop",
+    "description": "Drops the first <code>n</code> values of the input iterable.\nIf <code>n</code> is negative, behaves like <code>{@link tail}( iterable,\n-n)</code>.",
+    "examples": [
+      "// returns [ 3 , 4 ]\nlist( drop( range( 5 ) , 3 ) ) ;"
+    ],
+    "lineNumber": 17,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{IterableIterator} - The remaining values of the input iterable."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "n",
+        "description": "The number of values to drop."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "IterableIterator"
+      ],
+      "spread": false,
+      "description": "The remaining values of the input iterable."
+    }
+  },
+  {
+    "__docId__": 58,
+    "kind": "file",
+    "name": "src/dropwhile.js",
+    "content": "import {iter} from '@iterable-iterator/iter';\n\n/**\n * Drop elements of the input iterable while the current element satisfies the\n * input predicate.\n *\n * @param {Function} predicate - The input predicate.\n * @param {Iterable} iterable - The input iterable.\n * @returns {Iterator}\n */\nexport default function* dropwhile(predicate, iterable) {\n\tconst iterator = iter(iterable);\n\n\tfor (const item of iterator) {\n\t\tif (predicate(item)) {\n\t\t\tcontinue;\n\t\t}\n\n\t\t// Equivalent to return chain( [ [ item ] , iterator ] ) ;\n\n\t\tyield item;\n\n\t\tyield* iterator;\n\n\t\treturn;\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/slice/slice/src/dropwhile.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 59,
+    "kind": "function",
+    "name": "dropwhile",
+    "memberof": "src/dropwhile.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/dropwhile.js~dropwhile",
+    "access": "public",
+    "export": true,
+    "importPath": "@iterable-iterator/slice/src/dropwhile.js",
+    "importStyle": "dropwhile",
+    "description": "Drop elements of the input iterable while the current element satisfies the\ninput predicate.",
+    "lineNumber": 11,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Iterator}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Function"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "predicate",
+        "description": "The input predicate."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Iterator"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 60,
+    "kind": "file",
+    "name": "src/head.js",
+    "content": "import take from './take.js';\n\n/**\n * Same as {@link take}.\n * @function head\n */\nconst head = take;\nexport default head;\n",
+    "static": true,
+    "longname": "/home/runner/work/slice/slice/src/head.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 61,
+    "kind": "variable",
+    "name": "head",
+    "memberof": "src/head.js",
+    "static": true,
+    "longname": "src/head.js~head",
+    "access": "public",
+    "export": true,
+    "importPath": "@iterable-iterator/slice/src/head.js",
+    "importStyle": "head",
+    "description": "Same as {@link take}.",
+    "lineNumber": 7,
+    "unknown": [
+      {
+        "tagName": "@function",
+        "tagValue": "head"
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 62,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "export {default as _drop} from './_drop.js';\nexport {default as _tail} from './_tail.js';\nexport {default as _take} from './_take.js';\nexport {default as _trunc} from './_trunc.js';\nexport {default as drop} from './drop.js';\nexport {default as dropwhile} from './dropwhile.js';\nexport {default as head} from './head.js';\nexport {default as slice} from './slice.js';\nexport {default as tail} from './tail.js';\nexport {default as take} from './take.js';\nexport {default as takewhile} from './takewhile.js';\nexport {default as trunc} from './trunc.js';\n",
+    "static": true,
+    "longname": "/home/runner/work/slice/slice/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 63,
+    "kind": "file",
+    "name": "src/slice.js",
+    "content": "import {iter} from '@iterable-iterator/iter';\n\n/**\n * Same as\n * <code>map( [ i , x ] => x , filter( [ i , x ] => (new Set( range( start ,\n * stop , step ) ) ).has( i ) , enumerate( iterable ) ) );</code>.\n *\n * @param {Iterable} iterable - The input iterable.\n * @param {Number} start - Where to start the slice.\n * @param {Number} stop - Where to stop the slice.\n * @param {Number} step - The step of the slice.\n * @returns {IterableIterator}\n */\nexport default function* slice(iterable, start, stop, step) {\n\tconst iterator = iter(iterable);\n\n\twhile (start > 0) {\n\t\tif (iterator.next().done) {\n\t\t\treturn;\n\t\t}\n\n\t\t--start;\n\t\t--stop;\n\t}\n\n\twhile (stop > 0) {\n\t\tconst current = iterator.next();\n\n\t\tif (current.done) {\n\t\t\treturn;\n\t\t}\n\n\t\tyield current.value;\n\n\t\t--stop;\n\n\t\tlet n = step;\n\n\t\twhile (n > 1) {\n\t\t\tif (iterator.next().done) {\n\t\t\t\treturn;\n\t\t\t}\n\n\t\t\t--n;\n\t\t}\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/slice/slice/src/slice.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 64,
+    "kind": "function",
+    "name": "slice",
+    "memberof": "src/slice.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/slice.js~slice",
+    "access": "public",
+    "export": true,
+    "importPath": "@iterable-iterator/slice/src/slice.js",
+    "importStyle": "slice",
+    "description": "Same as\n<code>map( [ i , x ] => x , filter( [ i , x ] => (new Set( range( start ,\nstop , step ) ) ).has( i ) , enumerate( iterable ) ) );</code>.",
+    "lineNumber": 14,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{IterableIterator}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "start",
+        "description": "Where to start the slice."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "stop",
+        "description": "Where to stop the slice."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "step",
+        "description": "The step of the slice."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "IterableIterator"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 65,
+    "kind": "file",
+    "name": "src/tail.js",
+    "content": "import _drop from './_drop.js';\nimport _tail from './_tail.js';\n\n/**\n * Returns the last <code>n</code> values of the input iterable in an array.\n * If <code>n</code> is negative, behaves like <code>{@link drop}( iterable,\n * -n)</code>.\n *\n * @example\n * // returns [ 3 , 4 ]\n * list( tail( range( 5 ) , 2 ) ) ;\n *\n * @param {Iterable} iterable - The input iterable.\n * @param {Number} n - The number of values to include in the output.\n * @returns {IterableIterator} - The last <code>n</code> values of the input iterable.\n */\nexport default function tail(iterable, n) {\n\treturn n < 0 ? _drop(iterable, -n) : _tail(iterable, n);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/slice/slice/src/tail.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 66,
+    "kind": "function",
+    "name": "tail",
+    "memberof": "src/tail.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/tail.js~tail",
+    "access": "public",
+    "export": true,
+    "importPath": "@iterable-iterator/slice/src/tail.js",
+    "importStyle": "tail",
+    "description": "Returns the last <code>n</code> values of the input iterable in an array.\nIf <code>n</code> is negative, behaves like <code>{@link drop}( iterable,\n-n)</code>.",
+    "examples": [
+      "// returns [ 3 , 4 ]\nlist( tail( range( 5 ) , 2 ) ) ;"
+    ],
+    "lineNumber": 17,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{IterableIterator} - The last <code>n</code> values of the input iterable."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "n",
+        "description": "The number of values to include in the output."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "IterableIterator"
+      ],
+      "spread": false,
+      "description": "The last <code>n</code> values of the input iterable."
+    }
+  },
+  {
+    "__docId__": 67,
+    "kind": "file",
+    "name": "src/take.js",
+    "content": "import _trunc from './_trunc.js';\nimport _take from './_take.js';\n\n/**\n * Yields the first <code>n</code> elements of the input iterable. If\n * <code>n</code> is negative, behaves like <code>{@link trunc}( iterable,\n * -n)</code>.\n *\n * @example\n * // returns [ 0 , 1 , 2 ]\n * list( take( range( 5 ) , 3 ) ) ;\n *\n * @param {Iterable} iterable - The input iterable.\n * @param {Number} n - The number of elements to include in the output.\n * @returns {IterableIterator} - The first <code>n</code> elements of the input iterable.\n */\nexport default function take(iterable, n) {\n\treturn n < 0 ? _trunc(iterable, -n) : _take(iterable, n);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/slice/slice/src/take.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 68,
+    "kind": "function",
+    "name": "take",
+    "memberof": "src/take.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/take.js~take",
+    "access": "public",
+    "export": true,
+    "importPath": "@iterable-iterator/slice/src/take.js",
+    "importStyle": "take",
+    "description": "Yields the first <code>n</code> elements of the input iterable. If\n<code>n</code> is negative, behaves like <code>{@link trunc}( iterable,\n-n)</code>.",
+    "examples": [
+      "// returns [ 0 , 1 , 2 ]\nlist( take( range( 5 ) , 3 ) ) ;"
+    ],
+    "lineNumber": 17,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{IterableIterator} - The first <code>n</code> elements of the input iterable."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "n",
+        "description": "The number of elements to include in the output."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "IterableIterator"
+      ],
+      "spread": false,
+      "description": "The first <code>n</code> elements of the input iterable."
+    }
+  },
+  {
+    "__docId__": 69,
+    "kind": "file",
+    "name": "src/takewhile.js",
+    "content": "/**\n * Output elements of the input iterable while the current element satisfies the\n * input predicate.\n *\n * @param {Function} predicate - The input predicate.\n * @param {Iterable} iterable - The input iterable.\n * @returns {Iterator}\n */\nexport default function* takewhile(predicate, iterable) {\n\tfor (const item of iterable) {\n\t\tif (!predicate(item)) {\n\t\t\treturn;\n\t\t}\n\n\t\tyield item;\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/slice/slice/src/takewhile.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 70,
+    "kind": "function",
+    "name": "takewhile",
+    "memberof": "src/takewhile.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/takewhile.js~takewhile",
+    "access": "public",
+    "export": true,
+    "importPath": "@iterable-iterator/slice/src/takewhile.js",
+    "importStyle": "takewhile",
+    "description": "Output elements of the input iterable while the current element satisfies the\ninput predicate.",
+    "lineNumber": 9,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Iterator}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Function"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "predicate",
+        "description": "The input predicate."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Iterator"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 71,
+    "kind": "file",
+    "name": "src/trunc.js",
+    "content": "import _take from './_take.js';\nimport _trunc from './_trunc.js';\n\n/**\n * Yields all elements of the iterable except the last <code>n</code> ones. If\n * <code>n</code> is negative, behaves like <code>{@link take}( iterable, -n\n * )</code>.\n *\n * @example\n * // returns [ 0 , 1 , 2 ]\n * list( trunc( range( 5 ) , 2 ) ) ;\n *\n * @param {Iterable} iterable - The input iterable.\n * @param {Number} n - The number of elements to exclude from the output.\n * @returns {IterableIterator}\n */\nexport default function trunc(iterable, n) {\n\treturn n < 0 ? _take(iterable, -n) : _trunc(iterable, n);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/slice/slice/src/trunc.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 72,
+    "kind": "function",
+    "name": "trunc",
+    "memberof": "src/trunc.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/trunc.js~trunc",
+    "access": "public",
+    "export": true,
+    "importPath": "@iterable-iterator/slice/src/trunc.js",
+    "importStyle": "trunc",
+    "description": "Yields all elements of the iterable except the last <code>n</code> ones. If\n<code>n</code> is negative, behaves like <code>{@link take}( iterable, -n\n)</code>.",
+    "examples": [
+      "// returns [ 0 , 1 , 2 ]\nlist( trunc( range( 5 ) , 2 ) ) ;"
+    ],
+    "lineNumber": 17,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{IterableIterator}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "n",
+        "description": "The number of elements to exclude from the output."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "IterableIterator"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "kind": "index",
+    "content": ":hocho: [@iterable-iterator/slice](https://iterable-iterator.github.io/slice)\n==\n\nIterable slicing functions for JavaScript.\nSee [docs](https://iterable-iterator.github.io/slice/index.html).\n\n> :warning: Depending on your environment, the code may require\n> `regeneratorRuntime` to be defined, for instance by importing\n> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).\n\n```js\nimport {range} from '@iterable-iterator/range';\nimport {take, tail, trunc, drop} from '@iterable-iterator/slice'\ntake(range(10), 3); // 0 1 2\ntail(range(10), 3); // 7 8 9\ntrunc(range(10), 3); // 0 1 2 3 4 5 6\ndrop(range(10), 3); // 3 4 5 6 7 8 9\n\nimport {count} from '@iterable-iterator/count';\nimport {slice} from '@iterable-iterator/slice'\nslice(count(), 40, 50, 3); // 40 43 46 49\n\nimport {le} from '@functional-abstraction/predicate';\nimport {takewhile, dropwhile} from '@iterable-iterator/slice'\ntakewhile(le(5), count()); // 0 1 2 3 4 5\ndropwhile(le(5), count()); // 6 7 8 ...\n```\n\n[![License](https://img.shields.io/github/license/iterable-iterator/slice.svg)](https://raw.githubusercontent.com/iterable-iterator/slice/main/LICENSE)\n[![Version](https://img.shields.io/npm/v/@iterable-iterator/slice.svg)](https://www.npmjs.org/package/@iterable-iterator/slice)\n[![Tests](https://img.shields.io/github/workflow/status/iterable-iterator/slice/ci:test?event=push&label=tests)](https://github.com/iterable-iterator/slice/actions/workflows/ci:test.yml?query=branch:main)\n[![Dependencies](https://img.shields.io/david/iterable-iterator/slice.svg)](https://david-dm.org/iterable-iterator/slice)\n[![Dev dependencies](https://img.shields.io/david/dev/iterable-iterator/slice.svg)](https://david-dm.org/iterable-iterator/slice?type=dev)\n[![GitHub issues](https://img.shields.io/github/issues/iterable-iterator/slice.svg)](https://github.com/iterable-iterator/slice/issues)\n[![Downloads](https://img.shields.io/npm/dm/@iterable-iterator/slice.svg)](https://www.npmjs.org/package/@iterable-iterator/slice)\n\n[![Code issues](https://img.shields.io/codeclimate/issues/iterable-iterator/slice.svg)](https://codeclimate.com/github/iterable-iterator/slice/issues)\n[![Code maintainability](https://img.shields.io/codeclimate/maintainability/iterable-iterator/slice.svg)](https://codeclimate.com/github/iterable-iterator/slice/trends/churn)\n[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/iterable-iterator/slice/main.svg)](https://codecov.io/gh/iterable-iterator/slice)\n[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/iterable-iterator/slice.svg)](https://codeclimate.com/github/iterable-iterator/slice/trends/technical_debt)\n[![Documentation](https://iterable-iterator.github.io/slice/badge.svg)](https://iterable-iterator.github.io/slice/source.html)\n[![Package size](https://img.shields.io/bundlephobia/minzip/@iterable-iterator/slice)](https://bundlephobia.com/result?p=@iterable-iterator/slice)\n",
+    "longname": "/home/runner/work/slice/slice/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"@iterable-iterator/slice\",\n  \"description\": \"Iterable slicing functions for JavaScript\",\n  \"version\": \"0.0.1\",\n  \"license\": \"AGPL-3.0\",\n  \"author\": \"make-github-pseudonymous-again\",\n  \"homepage\": \"https://iterable-iterator.github.io/slice\",\n  \"repository\": {\n    \"url\": \"https://github.com/iterable-iterator/slice\",\n    \"type\": \"git\"\n  },\n  \"bugs\": {\n    \"url\": \"https://github.com/iterable-iterator/slice/issues\"\n  },\n  \"keywords\": [\n    \"drop\",\n    \"dropwhile\",\n    \"head\",\n    \"iter\",\n    \"iterable\",\n    \"iterator\",\n    \"slice\",\n    \"tail\",\n    \"take\",\n    \"takewhile\",\n    \"trunc\"\n  ],\n  \"sideEffects\": false,\n  \"source\": \"src/index.js\",\n  \"main\": \"dist/index.js\",\n  \"module\": \"dist/index.module.js\",\n  \"esmodule\": \"dist/index.modern.js\",\n  \"umd:main\": \"dist/index.umd.js\",\n  \"unpkg\": \"dist/index.umd.js\",\n  \"exports\": {\n    \".\": {\n      \"browser\": \"./dist/index.module.js\",\n      \"umd\": \"./dist/index.umd.js\",\n      \"require\": \"./dist/index.js\",\n      \"default\": \"./dist/index.modern.js\"\n    }\n  },\n  \"files\": [\n    \"dist\"\n  ],\n  \"scripts\": {\n    \"build\": \"NODE_ENV=production microbundle\",\n    \"build-docs\": \"esdoc\",\n    \"build-gh-pages\": \"npm run build-docs\",\n    \"ci:test\": \"npm run lint-config && npm run lint && npm run cover\",\n    \"commit-msg\": \"commitlint --edit\",\n    \"cover\": \"NODE_ENV=cover c8 --all --src src --reporter lcov --reporter text-summary --reporter text npm test\",\n    \"debug\": \"NODE_ENV=debug npm run test -- -st --fail-fast\",\n    \"dev\": \"npm run lint-config-and-fix && npm run lint-and-fix && npm run cover -- -- -st --fail-fast\",\n    \"install-hooks\": \"husky install\",\n    \"lint\": \"xo\",\n    \"lint-and-fix\": \"npm run lint -- --fix\",\n    \"lint-config\": \"fixpack --dryRun\",\n    \"lint-config-and-fix\": \"fixpack || fixpack\",\n    \"postinstall\": \"npm run install-hooks\",\n    \"postpublish\": \"pinst --enable\",\n    \"precommit\": \"lint-staged\",\n    \"prepare\": \"npm run build\",\n    \"prepublishOnly\": \"pinst --disable\",\n    \"release\": \"np --message ':hatching_chick: release: Bumping to v%s.'\",\n    \"test\": \"ava\"\n  },\n  \"dependencies\": {\n    \"@data-structure/deque\": \"^8.0.0\",\n    \"@iterable-iterator/consume\": \"^0.0.1\",\n    \"@iterable-iterator/iter\": \"^0.0.2\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"7.13.15\",\n    \"@babel/preset-env\": \"7.13.15\",\n    \"@babel/register\": \"7.13.14\",\n    \"@commitlint/cli\": \"12.1.1\",\n    \"@functional-abstraction/predicate\": \"^3.0.2\",\n    \"@iterable-iterator/count\": \"^0.0.1\",\n    \"@iterable-iterator/list\": \"^0.0.2\",\n    \"@iterable-iterator/range\": \"^1.0.0\",\n    \"@js-library/commitlint-config\": \"0.0.4\",\n    \"ava\": \"3.15.0\",\n    \"babel-plugin-transform-remove-console\": \"6.9.4\",\n    \"babel-plugin-unassert\": \"3.0.1\",\n    \"babel-preset-power-assert\": \"3.0.0\",\n    \"c8\": \"7.7.1\",\n    \"coveralls\": \"3.1.0\",\n    \"esdoc\": \"1.1.0\",\n    \"esdoc-ecmascript-proposal-plugin\": \"1.0.0\",\n    \"esdoc-inject-script-plugin\": \"1.0.0\",\n    \"esdoc-inject-style-plugin\": \"1.0.0\",\n    \"esdoc-standard-plugin\": \"1.0.0\",\n    \"fixpack\": \"4.0.0\",\n    \"husky\": \"6.0.0\",\n    \"lint-staged\": \"10.5.4\",\n    \"microbundle\": \"0.13.0\",\n    \"np\": \"7.4.0\",\n    \"pinst\": \"2.1.6\",\n    \"power-assert\": \"1.6.1\",\n    \"regenerator-runtime\": \"0.13.7\",\n    \"xo\": \"0.38.2\"\n  },\n  \"ava\": {\n    \"files\": [\n      \"test/src/**/*\"\n    ],\n    \"require\": [\n      \"regenerator-runtime/runtime\",\n      \"@babel/register\"\n    ],\n    \"timeout\": \"1m\"\n  },\n  \"babel\": {\n    \"sourceMaps\": true,\n    \"presets\": [\n      [\n        \"@babel/preset-env\",\n        {\n          \"targets\": \"current node\"\n        }\n      ]\n    ],\n    \"plugins\": [\n      [\n        \"transform-remove-console\",\n        {\n          \"exclude\": [\n            \"log\",\n            \"error\",\n            \"warn\"\n          ]\n        }\n      ]\n    ],\n    \"env\": {\n      \"debug\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ],\n        \"plugins\": [\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"debug\",\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ]\n      },\n      \"test\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ]\n      },\n      \"cover\": {\n        \"sourceMaps\": \"both\",\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ]\n      },\n      \"development\": {\n        \"presets\": [\n          [\n            \"@babel/preset-env\",\n            {\n              \"targets\": [\n                \"defaults\",\n                \"maintained node versions\"\n              ]\n            }\n          ],\n          \"babel-preset-power-assert\"\n        ]\n      },\n      \"production\": {\n        \"presets\": [\n          [\n            \"@babel/preset-env\",\n            {\n              \"targets\": [\n                \"defaults\",\n                \"maintained node versions\"\n              ]\n            }\n          ]\n        ],\n        \"plugins\": [\n          \"babel-plugin-unassert\"\n        ]\n      }\n    }\n  },\n  \"lint-staged\": {\n    \"*.js\": [\n      \"npm run lint-and-fix\"\n    ],\n    \"package.json\": [\n      \"npm run lint-config-and-fix\"\n    ]\n  },\n  \"prettier\": {\n    \"trailingComma\": \"all\"\n  },\n  \"xo\": {\n    \"prettier\": true,\n    \"plugins\": [\n      \"unicorn\"\n    ],\n    \"rules\": {\n      \"unicorn/filename-case\": [\n        \"error\",\n        {\n          \"cases\": {\n            \"camelCase\": true,\n            \"pascalCase\": true\n          }\n        }\n      ]\n    },\n    \"overrides\": [\n      {\n        \"files\": [\n          \"doc/**\"\n        ],\n        \"env\": \"browser\"\n      }\n    ]\n  }\n}\n",
+    "longname": "/home/runner/work/slice/slice/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manualIndex",
+    "globalIndex": false,
+    "content": null,
+    "longname": "",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/slice/slice/doc/manual/overview.md",
+    "name": "./doc/manual/overview.md",
+    "content": "# Overview\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/slice/slice/doc/manual/installation.md",
+    "name": "./doc/manual/installation.md",
+    "content": "# Installation\n\nCan be managed using\n[yarn](https://yarnpkg.com/en/docs),\n[npm](https://docs.npmjs.com),\nor [jspm](https://jspm.org/docs).\n\n\n### yarn\n```terminal\nyarn add @iterable-iterator/slice\n```\n\n### npm\n```terminal\nnpm install @iterable-iterator/slice --save\n```\n\n### jspm\n```terminal\njspm install npm:@iterable-iterator/slice\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/slice/slice/doc/manual/usage.md",
+    "name": "./doc/manual/usage.md",
+    "content": "# Usage\n\n> :warning: Depending on your environment, the code may require\n> `regeneratorRuntime` to be defined, for instance by importing\n> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).\n\nFirst, require the polyfill at the entry point of your application\n```js\nrequire( 'regenerator-runtime/runtime' ) ;\n// or\nimport 'regenerator-runtime/runtime.js' ;\n```\n\nThen, import the library where needed\n```js\nconst slice = require( '@iterable-iterator/slice' ) ;\n// or\nimport * as slice from '@iterable-iterator/slice' ;\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/slice/slice/doc/manual/example.md",
+    "name": "./doc/manual/example.md",
+    "content": "# Examples\n\n> More examples in [the test files](https://github.com/iterable-iterator/slice/tree/main/test/src).\n",
+    "static": true,
+    "access": "public"
+  }
+]
