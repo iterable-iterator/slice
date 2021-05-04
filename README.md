@@ -10,8 +10,10 @@ See [docs](https://iterable-iterator.github.io/slice/index.html).
 
 ```js
 import {range} from '@iterable-iterator/range';
-import {take, tail, trunc, drop} from '@iterable-iterator/slice'
+import {repeat} from '@iterable-iterator/repeat';
+import {take, head, tail, trunc, drop} from '@iterable-iterator/slice'
 take(range(10), 3); // 0 1 2
+head(repeat("A"), 3); // A A A
 tail(range(10), 3); // 7 8 9
 trunc(range(10), 3); // 0 1 2 3 4 5 6
 drop(range(10), 3); // 3 4 5 6 7 8 9
