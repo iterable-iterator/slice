@@ -53,8 +53,10 @@ See <a href="https://iterable-iterator.github.io/slice/index.html">docs</a>.</p>
 <a href="https://www.npmjs.com/package/regenerator-runtime">regenerator-runtime/runtime</a>.</p>
 </blockquote>
 <pre><code class="lang-js"><code class="source-code prettyprint">import {range} from &apos;@iterable-iterator/range&apos;;
-import {take, tail, trunc, drop} from &apos;@iterable-iterator/slice&apos;
+import {repeat} from &apos;@iterable-iterator/repeat&apos;;
+import {take, head, tail, trunc, drop} from &apos;@iterable-iterator/slice&apos;
 take(range(10), 3); // 0 1 2
+head(repeat(&quot;A&quot;), 3); // A A A
 tail(range(10), 3); // 7 8 9
 trunc(range(10), 3); // 0 1 2 3 4 5 6
 drop(range(10), 3); // 3 4 5 6 7 8 9
