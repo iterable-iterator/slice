@@ -6,14 +6,14 @@
 
 First, require the polyfill at the entry point of your application
 ```js
-require( 'regenerator-runtime/runtime' ) ;
+await import( 'regenerator-runtime/runtime.js' ) ;
 // or
 import 'regenerator-runtime/runtime.js' ;
 ```
 
 Then, import the library where needed
 ```js
-const slice = require( '@iterable-iterator/slice' ) ;
+const slice = await import( '@iterable-iterator/slice' ) ;
 // or
 import * as slice from '@iterable-iterator/slice' ;
 ```
