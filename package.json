@@ -1,7 +1,7 @@
 {
   "name": "@iterable-iterator/slice",
   "description": "Iterable slicing functions for JavaScript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "AGPL-3.0",
   "author": "make-github-pseudonymous-again",
   "homepage": "https://iterable-iterator.github.io/slice",
