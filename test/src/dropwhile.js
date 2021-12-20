@@ -1,11 +1,10 @@
 import test from 'ava';
 
-import {lt} from './_fixtures.js';
-
 import {list} from '@iterable-iterator/list';
 import {range} from '@iterable-iterator/range';
 
 import {dropwhile} from '../../src/index.js';
+import {lt} from './_fixtures.js';
 
 const macro = (t, input, predicate, expected) => {
 	t.deepEqual(list(dropwhile(predicate, input)), list(expected));

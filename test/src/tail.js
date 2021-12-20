@@ -3,6 +3,7 @@ import test from 'ava';
 import {list} from '@iterable-iterator/list';
 import {range} from '@iterable-iterator/range';
 
+import {count} from '@iterable-iterator/count';
 import {tail} from '../../src/index.js';
 
 const macro = (t, input, n, expected) => {
@@ -17,8 +18,6 @@ test(macro, range(100), 0, range(0));
 test(macro, range(100), 37, range(100 - 37, 100));
 
 test(macro, range(100), 1000, range(100));
-
-import {count} from '@iterable-iterator/count';
 
 test('constructing tail of infinite generator does not loop', (t) => {
 	tail(count(), 10);
