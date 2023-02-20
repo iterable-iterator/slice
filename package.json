@@ -73,9 +73,9 @@
     "@iterable-iterator/iter": "^1.0.1"
   },
   "devDependencies": {
-    "@babel/core": "7.20.12",
+    "@babel/core": "7.21.0",
     "@babel/preset-env": "7.20.2",
-    "@babel/register": "7.18.9",
+    "@babel/register": "7.21.0",
     "@commitlint/cli": "17.4.4",
     "@functional-abstraction/predicate": "4.0.0",
     "@iterable-iterator/count": "1.0.1",
