@@ -76,7 +76,7 @@
     "@babel/core": "7.23.0",
     "@babel/preset-env": "7.22.20",
     "@babel/register": "7.22.15",
-    "@commitlint/cli": "17.7.1",
+    "@commitlint/cli": "17.7.2",
     "@functional-abstraction/predicate": "4.0.0",
     "@iterable-iterator/count": "1.0.1",
     "@iterable-iterator/list": "1.0.1",
