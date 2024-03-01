@@ -3,7 +3,7 @@ import test from 'ava';
 import {list} from '@iterable-iterator/list';
 import {range} from '@iterable-iterator/range';
 
-import {drop} from '../../src/index.js';
+import {drop} from '#module';
 
 const macro = (t, input, n, expected) => {
 	t.deepEqual(list(drop(input, n)), list(expected));

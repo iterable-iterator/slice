@@ -4,7 +4,7 @@ import {list} from '@iterable-iterator/list';
 import {range} from '@iterable-iterator/range';
 
 import {count} from '@iterable-iterator/count';
-import {tail} from '../../src/index.js';
+import {tail} from '#module';
 
 const macro = (t, input, n, expected) => {
 	t.deepEqual(list(tail(input, n)), list(expected));
