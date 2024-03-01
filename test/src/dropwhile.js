@@ -4,6 +4,7 @@ import {list} from '@iterable-iterator/list';
 import {range} from '@iterable-iterator/range';
 
 import {lt} from './_fixtures.js';
+
 import {dropwhile} from '#module';
 
 const macro = (t, input, predicate, expected) => {

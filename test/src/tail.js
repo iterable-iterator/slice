@@ -1,9 +1,9 @@
 import test from 'ava';
 
+import {count} from '@iterable-iterator/count';
 import {list} from '@iterable-iterator/list';
 import {range} from '@iterable-iterator/range';
 
-import {count} from '@iterable-iterator/count';
 import {tail} from '#module';
 
 const macro = (t, input, n, expected) => {

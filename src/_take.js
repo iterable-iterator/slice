@@ -1,4 +1,5 @@
 import assert from 'assert';
+
 import {iter} from '@iterable-iterator/iter';
 
 /**

@@ -1,5 +1,5 @@
-import _trunc from './_trunc.js';
 import _take from './_take.js';
+import _trunc from './_trunc.js';
 
 /**
  * Yields the first <code>n</code> elements of the input iterable. If

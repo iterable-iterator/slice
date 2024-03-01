@@ -1,4 +1,5 @@
 import assert from 'assert';
+
 import {deque} from '@data-structure/deque';
 import {iter} from '@iterable-iterator/iter';
 

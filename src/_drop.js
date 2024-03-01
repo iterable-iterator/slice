@@ -1,6 +1,7 @@
 import assert from 'assert';
-import {iter} from '@iterable-iterator/iter';
+
 import {consume} from '@iterable-iterator/consume';
+import {iter} from '@iterable-iterator/iter';
 
 /**
  * Drops the first <code>n</code> values of the input iterable.
