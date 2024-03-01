@@ -31,8 +31,7 @@ dropwhile(le(5), count()); // 6 7 8 ...
 [![License](https://img.shields.io/github/license/iterable-iterator/slice.svg)](https://raw.githubusercontent.com/iterable-iterator/slice/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@iterable-iterator/slice.svg)](https://www.npmjs.org/package/@iterable-iterator/slice)
 [![Tests](https://img.shields.io/github/workflow/status/iterable-iterator/slice/ci:test?event=push&label=tests)](https://github.com/iterable-iterator/slice/actions/workflows/ci:test.yml?query=branch:main)
-[![Dependencies](https://img.shields.io/david/iterable-iterator/slice.svg)](https://david-dm.org/iterable-iterator/slice)
-[![Dev dependencies](https://img.shields.io/david/dev/iterable-iterator/slice.svg)](https://david-dm.org/iterable-iterator/slice?type=dev)
+[![Dependencies](https://img.shields.io/librariesio/github/iterable-iterator/slice.svg)](https://github.com/iterable-iterator/slice/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/iterable-iterator/slice.svg)](https://github.com/iterable-iterator/slice/issues)
 [![Downloads](https://img.shields.io/npm/dm/@iterable-iterator/slice.svg)](https://www.npmjs.org/package/@iterable-iterator/slice)
 
