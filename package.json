@@ -80,8 +80,8 @@
     "@iterable-iterator/iter": "^1.0.1"
   },
   "devDependencies": {
-    "@babel/core": "7.24.1",
-    "@babel/preset-env": "7.24.1",
+    "@babel/core": "7.24.3",
+    "@babel/preset-env": "7.24.3",
     "@commitlint/cli": "19.2.1",
     "@functional-abstraction/predicate": "4.0.0",
     "@iterable-iterator/count": "1.0.1",
